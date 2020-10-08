@@ -2,7 +2,7 @@ package com.jeet;
 
 public class App{
 	public String Sample() {
-		System.out.println("success");
+		System.out.println("code by maven running successfully");
 		return "sample string";
 	}
 public int add(int a, int b)
